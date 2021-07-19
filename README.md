@@ -21,4 +21,4 @@ make build
 ```
 
 The application has already been deployed to Heroku!
-<a>Link to the application</a>
+<a href="https://polar-brushlands-62667.herokuapp.com/routes?src=13.388860,52.517037&dst=13.397634,52.529407&dst=13.428555,52.523219">Link to the application</a>
